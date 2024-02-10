@@ -11,7 +11,7 @@ git clone https://github.com/LorezZ1000/sqldork
 </pre>
 <a>Automate install</a>
 <pre align="left">
-git clone https://github.com/LorezZ1000/sqldork;cd sqldork;rm README.md;unzip sqldork.zip;rm sqldork.zip
+git clone https://github.com/LorezZ1000/sqldork;cd sqldork;rm README.md;unzip sqldork.zip;rm sqldork.zip;python3 sqdork.py
 </pre>
 <a>If you get any issue please comment</a>
 <br>
