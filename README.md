@@ -1,22 +1,20 @@
-<h1 align="left">OPENSOURCE DIRB SRICPT MADE BY LOREZZ</h1>
+<h1 align="left">OPENSOURCE SQLi TESTER SRICPT MADE BY LOREZZ</h1>
 
 ###
 <a>How to use</a>
 <pre align="left">
-python3 ldbr.py https://example.com /path/to/wordlist.txt
+python3 sqldork.py 
 </pre>
 <a>How to install</a>
 <pre align="left">
-git clone https://github.com/LorezZ1000/lorezzdirb
+git clone https://github.com/LorezZ1000/sqldork
 </pre>
 <a>If you get any issue please comment</a>
 <br>
 </br>
 <a>If missing any package just copy and paste the following commands</a>
 <pre align="left">
-pip install colorama
 pip install requests
-pip install urllib
 </pre>
 
 ###
