@@ -18,7 +18,7 @@ git clone https://github.com/LorezZ1000/sqldork;cd sqldork;rm README.md;unzip sq
 </br>
 <a>If missing any package just copy and paste the following commands</a>
 <pre align="left">
-pip install requests
+pip install requests colorama
 </pre>
 
 ###
