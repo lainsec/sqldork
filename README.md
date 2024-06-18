@@ -7,7 +7,7 @@ python3 sqldork.py
 </pre>
 <a>How to install</a>
 <pre align="left">
-git clone https://github.com/LorezZ1000/sqldork
+git clone https://github.com/lainsec/sqldork
 </pre>
 <a>Automate install</a>
 <pre align="left">
